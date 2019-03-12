@@ -16,7 +16,7 @@ role = "Research Associate"
 organizations = [ { name = "Tata Institue of Social Sciences", url = "http://www.tiss.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include Early Warning System, Hazard Risk Vulnerability Assessment and Disaster Risk Reduction."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "das.manomita@gmail.com"
