@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "default"
+color_theme = "ocean"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -12,13 +12,13 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Porfolio website for Manomita Das"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "ManomitaD"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -50,24 +50,27 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "das.manomita@gmail.com"
+phone = "(+91)704 581 6680"
+address = "C/O - V.S. Banglekar, Room 04, Building B18, Sector 1, Vashi, Navi Mumbai, Maharashtra 400703, India"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """Monday 10:00 to 17:00<br>
+                  Tuesday 10:00 to 17:00<br>
+                  Wednesday 10:00 to 17:00<br>
+                  Thursday 10:00 to 17:00<br>
+                  Friday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ManomitaD"},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live:das.manomita?call"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -110,7 +113,7 @@ plugins_js  = []
 gravatar = false
 
 # Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+menu_align_right = true
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -119,7 +122,7 @@ reading_time = true
 comment_count = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
@@ -141,7 +144,7 @@ sharing = true
   #   3: Card
   #   4: Citation (publications only)
   post_view = 2
-  publication_view = 2
+  publication_view = 4
   talk_view = 2
 
 # Search.
