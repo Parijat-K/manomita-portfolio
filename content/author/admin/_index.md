@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "MSW in Social Work"
   institution = "IGNOU"
-  year = Pursuing
+  year = 2020
 
 [[education.courses]]
   course = "M.Sc. in Disaster Management"
