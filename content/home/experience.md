@@ -19,27 +19,41 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Associate"
+  company = "Tata Institue of Social Sciences"
+  company_url = "http://www.tiss.edu/"
+  location = "Mumbai, India"
+  date_start = "2018-12-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  **Responsibilities:**
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Programme management and delivery 
+  * Curriculum development, Content development and Course updation
+  * Online learning material development
+  * Academic Research
+  * Development of communication strategy and promotion
+  * Representing organization in different forums and social platforms
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Project Coordinator"
+  company = "Taru Leading Edge Pvt. Ltd"
+  company_url = "http://www.taru.co.in/"
+  location = "Kolkata, India"
+  date_start = "2017-06-01"
+  date_end = "2018-11-30"
+  description = """
+  **Responsibilities:**
+  
+  * Project management at client site and single point of contact
+  * Needs assessment and requirement analysis
+  * Design and conceptualization of urban flood early warning and real time monitoring system
+  * Review and updation of disaster management plan
+  * Hazard and vulnerability assessment•	Guidelines for developing climate resilience of Kolkata city
+  * Organize and conduct capacity building workshops and training for city and state level officials, civil society organization and community
+  * Stakeholder engagement, project coordination and onsite staff management
+  * Documentation and reporting
+  """
 
 +++
