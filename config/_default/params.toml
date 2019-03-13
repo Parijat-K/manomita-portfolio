@@ -55,11 +55,7 @@ phone = "(+91) 704 581 6680"
 address = "C/O - V.S. Banglekar, Room 04, Building B18, Sector 1, Vashi, Navi Mumbai, Maharashtra 400703, India"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 17:00<br>
-                  Tuesday 10:00 to 17:00<br>
-                  Wednesday 10:00 to 17:00<br>
-                  Thursday 10:00 to 17:00<br>
-                  Friday 09:00 to 10:00"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
