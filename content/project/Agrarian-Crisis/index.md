@@ -1,5 +1,5 @@
 +++
-title = "Agrarian Crisis"
+title = "Agrarian Crisis - Marathwada Drought 2016"
 date = 2016-02-01T13:55:01+05:30
 draft = false
 
@@ -11,7 +11,7 @@ tags = []
 
 # Project summary to display on homepage.
 
-summary = "Development of Community Based Disaster Management Plan, Mental Health Response Plan & Drought Mitigation Plan"
+summary = ""
 
 # Slides (optional).
 
@@ -62,5 +62,7 @@ url_poster = ""
 
   focal_point = ""
 +++
+
+Development of Community Based Disaster Management Plan, Mental Health Response Plan & Drought Mitigation Plan
 
 **Impact**: The report was presented to the district head of Osmanabad and is now being implemented

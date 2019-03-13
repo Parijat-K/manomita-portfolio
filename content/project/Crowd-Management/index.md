@@ -1,5 +1,5 @@
 +++
-title = "Crowd Management"
+title = "Crowd Management - Alandi"
 date = 2015-08-01T13:55:18+05:30
 draft = false
 
@@ -11,7 +11,7 @@ tags = []
 
 # Project summary to display on homepage.
 
-summary = "Review of Crowd Management at Alandi during religious mass gathering"
+summary = ""
 
 # Slides (optional).
 
@@ -54,7 +54,7 @@ url_poster = ""
 
 # Caption (optional)
 
-  caption = "Alandi"
+  caption = ""
 
 # Focal point (optional)
 
@@ -62,3 +62,5 @@ url_poster = ""
 
   focal_point = ""
 +++
+
+Review of Crowd Management at Alandi during religious mass gathering

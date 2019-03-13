@@ -1,5 +1,5 @@
 +++
-title = "Vegetable Supply Chain"
+title = "Vegetable Supply Chain - Risk Identification and Ad hoc Supply Chain Design"
 date = 2018-04-01T13:54:18+05:30
 draft = false
 
@@ -11,7 +11,7 @@ tags = []
 
 # Project summary to display on homepage.
 
-summary = "Develop understanding of the vegetable supply chain of Mumbai, Risk identification, Identification of key areas of intervention and development of project blueprint, Collaboration and coordination with stakeholders"
+summary = ""
 
 # Slides (optional).
 
@@ -54,7 +54,7 @@ url_poster = ""
 
 # Caption (optional)
 
-  caption = "Risk Identification and Ad hoc Supply Chain Design"
+  caption = ""
 
 # Focal point (optional)
 
@@ -62,3 +62,5 @@ url_poster = ""
 
   focal_point = ""
 +++
+
+Develop understanding of the vegetable supply chain of Mumbai, Risk identification, Identification of key areas of intervention and development of project blueprint, Collaboration and coordination with stakeholders

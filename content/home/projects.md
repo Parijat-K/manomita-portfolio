@@ -61,7 +61,7 @@ subtitle = ""
 
 # 5 = Showcase
 
-  view = 5
+  view = 3
 
 # For Showcase view, flip alternate rows?
 
