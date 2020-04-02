@@ -9,11 +9,11 @@ authors = ["manomita-das"]
 superuser = true
 
 # Role/position
-role = "Research Associate"
+role = "Junior Research Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Tata Institue of Social Sciences", url = "http://www.tiss.edu/" } ]
+organizations = [ { name = "BITS Pilani", url = "https://www.bits-pilani.ac.in/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include Early Warning System, Hazard Risk Vulnerability Assessment and Disaster Risk Reduction."
@@ -34,9 +34,14 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+  course = "Junior Research Fellow"
+  institution = "BITS Pilani"
+  year = 2020
+  
+[[education.courses]]
   course = "MSW in Social Work"
   institution = "IGNOU"
-  year = 2020
+  year = 2019
 
 [[education.courses]]
   course = "M.Sc. in Disaster Management"
@@ -54,6 +59,11 @@ user_groups = ["Researchers", "Visitors"]
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=WEgHb_sAAAAJ&hl=en&oi=ao"
+
+[[social]]
   icon = "envelope"
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:das.manomita@gmail.com".
@@ -64,24 +74,19 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://twitter.com/ManomitaD"
 
 #[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-#[[social]]
 #  icon = "github"
 #  icon_pack = "fab"
 #  link = "https://github.com/gcushen"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/CV.pdf"
+ [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/CV.pdf"
 
 +++
 
 I was always interested in addressing ground level challenges with the limited resources available and developing feasible solutions with the potential to positively impact a large number of at-risk people. My focus is primarily to bring technology and policy closer to the vulnerable.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+# More lines to add here
