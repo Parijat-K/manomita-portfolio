@@ -16,7 +16,7 @@ baseurl = "https://manomita.netlify.com/"
 copyright = "&copy; Manomita Das"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-162650413-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
