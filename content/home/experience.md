@@ -3,8 +3,7 @@
 # Experience widget.
 
 widget = "experience"  # Do not modify this line!
-active = true  # Activate this widget? true/false
-
+active = true  # Activate this widget? true/falseheadless = true  # Homepage is headless, other widget pages are not.
 title = "Experience"
 subtitle = ""
 

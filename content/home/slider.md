@@ -4,6 +4,7 @@
 
 widget = "slider"  # Do not modify this line!
 active = false # Activate this widget? true/false
+headless = true  # Homepage is headless, other widget pages are not.
 
 # Order that this section will appear in.
 

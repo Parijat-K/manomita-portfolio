@@ -3,7 +3,7 @@
 widget = "about"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
-
+headless = true  # Homepage is headless, other widget pages are not.
 title = "Biography"
 
 # Choose the user profile to display

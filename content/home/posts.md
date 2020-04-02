@@ -5,6 +5,7 @@
 widget = "pages"  # Do not modify this line!
 active = false  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
+headless = true  # Homepage is headless, other widget pages are not.
 
 title = "Recent Posts"
 subtitle = ""

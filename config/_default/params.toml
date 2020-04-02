@@ -3,13 +3,15 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "ocean"
+theme = "ocean"
 # Enable users to switch between day and night mode?
 day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = ""
+
+font_size = "L"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Porfolio website for Manomita Das"
@@ -52,7 +54,8 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "das.manomita@gmail.com"
 phone = ""
-address = "C/O - V.S. Banglekar, Room 04, Building B18, Sector 1, Vashi, Navi Mumbai, Maharashtra 400703, India"
+address = {street = "C/O - V.S. Banglekar, Room 04, Building B18, Sector 1", city = "Vashi, Navi Mumbai", region = "Maharashtra", postcode = "400703", country = "INDIA", country_code = "IN"}
+address_format = "en-us"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -70,26 +73,25 @@ contact_links = [
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
-# Display a map.
-# To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
-# a map provider below.
-# To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
-#   https://developers.google.com/maps/documentation/javascript/get-api-key
-# To use OpenStreetMap tiles, set `map = 2`.
-# To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
-#   https://www.mapbox.com/studio/account/tokens
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#
-# Map provider:
-#   0: No map
-#   1: Google Maps
-#   2: OpenStreetMap (Mapnik)
-#   3: OpenStreetMap (Mapbox)
-map = 0
-map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
-zoom = 15
+coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+[map]
+  # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
+  # and choose a map provider below.
+  #
+  # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `engine` to 2.
+  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  #
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
+  engine = 2
+  api_key = ""
+  zoom = 15
 
 ############################
 ## Plugins                ##
@@ -109,7 +111,7 @@ plugins_js  = []
 gravatar = false
 
 # Align the main menu to the right of the page? (true/false)
-menu_align_right = true
+main_menu = {align = "r", show_logo = false}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -158,3 +160,31 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+edit_page = {repo_url = "https://github.com/Parijat29/manomita-portfolio", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+
+# Comments.
+[comments]
+  # Comment provider:
+  #   0: Disabled
+  #   1: Disqus (https://disqus.com)
+  #   2: Commento (https://commento.io)
+  engine = 0
+
+  # Which page types are commentable?
+  commentable = {page = true, post = true, docs = true}
+
+  # Configuration of Disqus.
+  [comments.disqus]
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    show_count = true  # Show comment count in page header? (true/false)
+
+# Available address formats.
+[address_formats]
+  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
+
+[marketing]
+  google_analytics = "UA-162650413-1"
+  google_tag_manager = ""
