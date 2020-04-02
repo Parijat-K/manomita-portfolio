@@ -89,4 +89,3 @@ user_groups = ["Researchers", "Visitors"]
 
 I was always interested in addressing ground level challenges with the limited resources available and developing feasible solutions with the potential to positively impact a large number of at-risk people. My focus is primarily to bring technology and policy closer to the vulnerable.
 
-# More lines to add here
