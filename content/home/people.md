@@ -1,5 +1,6 @@
 +++
 widget = "people"  # Use the People widget
+active = false  # Activate this widget? true/false
 headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
