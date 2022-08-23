@@ -9,22 +9,22 @@ authors = ["manomita-das"]
 superuser = true
 
 # Role/position
-role = "Junior Research Fellow"
+role = "PhD Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "BITS Pilani", url = "https://www.bits-pilani.ac.in/" } ]
+organizations = [ { name = "Joint Centre for Disaster Research, Massey University", url = "https://www.massey.ac.nz/research/research-centres/joint-centre-for-disaster-research/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Early Warning System, Hazard Risk Vulnerability Assessment and Disaster Risk Reduction."
+bio = "Disaster Studies Researcher."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "das.manomita@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Early Warning System",
-  "Hazard Risk Vulnerability Assessment",
+  "Risk Communication",
+  "Community Resilience",
   "Disaster Risk Reduction"
 ]
 
@@ -34,15 +34,15 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+  course = "PhD in School of Psychology"
+  institution = "Massey University"
+  year = 2020
+  
+[[education.courses]]
   course = "Junior Research Fellow"
   institution = "BITS Pilani"
   year = 2020
   
-[[education.courses]]
-  course = "MSW in Social Work"
-  institution = "IGNOU"
-  year = 2019
-
 [[education.courses]]
   course = "M.Sc. in Disaster Management"
   institution = "Tata Institute of Social Science"
@@ -86,6 +86,4 @@ user_groups = ["Researchers", "Visitors"]
    link = "files/CV.pdf"
 
 +++
-
-I was always interested in addressing ground level challenges with the limited resources available and developing feasible solutions with the potential to positively impact a large number of at-risk people. My focus is primarily to bring technology and policy closer to the vulnerable.
 
