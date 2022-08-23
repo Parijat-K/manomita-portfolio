@@ -36,12 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in School of Psychology"
   institution = "Massey University"
-  year = 2020
-  
-[[education.courses]]
-  course = "Junior Research Fellow"
-  institution = "BITS Pilani"
-  year = 2020
+  year = 2021
   
 [[education.courses]]
   course = "M.Sc. in Disaster Management"
