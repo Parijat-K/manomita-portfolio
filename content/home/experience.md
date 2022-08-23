@@ -28,12 +28,23 @@ date_format = "January 2006"
 # Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+ title = "Junior Research Fellow"
+ company = "BITS Pilani
+ company_url = "https://www.bits-pilani.ac.in/hyderabad/"
+ location = "Hyderabad, India"
+ date_start = "2019-06-01"
+ date_end = "2021-06-01"
+ description = """
+ 
+  """
+
+[[experience]]
  title = "Research Associate"
  company = "Tata Institue of Social Sciences"
  company_url = "http://www.tiss.edu/"
  location = "Mumbai, India"
  date_start = "2018-12-01"
- date_end = ""
+ date_end = "2019-06-01"
  description = """
  **Responsibilities:**
 
