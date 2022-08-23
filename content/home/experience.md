@@ -29,7 +29,7 @@ date_format = "January 2006"
 
 [[experience]]
  title = "Junior Research Fellow"
- company = "BITS Pilani
+ company = "BITS Pilani"
  company_url = "https://www.bits-pilani.ac.in/hyderabad/"
  location = "Hyderabad, India"
  date_start = "2019-06-01"
