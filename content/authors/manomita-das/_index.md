@@ -9,14 +9,14 @@ authors = ["manomita-das"]
 superuser = true
 
 # Role/position
-role = "PhD Student"
+role = "PhD Student in Emergency Management"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Joint Centre for Disaster Research, Massey University", url = "https://www.massey.ac.nz/research/research-centres/joint-centre-for-disaster-research/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Disaster Studies Researcher."
+# bio = "Disaster Studies Researcher."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "das.manomita@gmail.com"
