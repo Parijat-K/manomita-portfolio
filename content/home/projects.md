@@ -7,7 +7,7 @@ active = true # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 headless = true  # Homepage is headless, other widget pages are not.
 
-title = "Field Works"
+title = "Projects"
 subtitle = ""
 
 [content]
