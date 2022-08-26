@@ -7,7 +7,7 @@ publication_types = ["2"]
 publication = "Disaster Prevention and Management: An International Journal"
 publication_short = ""
 abstract = ""
-summary = ""
+summary = "Exploring local researchers' perspective on barriers toward conducting locally relevant disaster research."
 doi = ""
 featured = true
 [image]

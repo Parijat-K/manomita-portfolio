@@ -7,7 +7,7 @@ publication_types = ["6"]
 publication = "Disaster Studies (pp. 313-335). Springer, Singapore"
 publication_short = ""
 abstract = ""
-summary = ""
+summary = "Food Insecurity Among Women in Disaster-Prone Areas in India"
 doi = ""
 featured = true
 [image]
