@@ -35,6 +35,17 @@ date_format = "January 2006"
  date_start = "2019-06-01"
  date_end = "2021-06-01"
  description = """
+ **Projects:**
+
+- Programme management and delivery
+
+- Flood risk perception in urban centres in India
+  - Study of three metro cities Planning and conduct of research
+  - Desk based review, data analysis and report writing
+
+- Village adoption in post disaster context
+  - Case studies from India Planning and conduct of research
+  - Primary data collection, analysis and report writing
  
   """
 

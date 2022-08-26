@@ -18,20 +18,43 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
+[[item]]
+  title = "Resilience to Nature’s Challenges Doctoral Scholarship"
+  organization = "National Science Challenges"
+  certificate_url = ""
+  date_start = "2021-08-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  title = "Converge COVID-19 Working Group Award"
+  organization = "Natural Hazards Center"
+  certificate_url = ""
+  date_start = "2020-10-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  title = "Cornell Climate Online Fellowship, Fall 2019"
+  organization = "Cornell University"
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  title = "Junior Research Fellowship (UGC NET JRF)"
+  organization = "University Grants Commission, India"
+  certificate_url = ""
+  date_start = "2019-04-01"
+  date_end = ""
+  description = ""
+  
 [[item]]
   title = "Monthly Surprise Award"
   organization = "Taru Leading Edge Pvt. Ltd"
   certificate_url = ""
   date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  title = "Scored highest grades in M.Sc Disaster management"
-  organization = "Tata Institue of Social Sciences "
-  certificate_url = ""
-  date_start = "2017-03-01"
   date_end = ""
   description = ""
   
