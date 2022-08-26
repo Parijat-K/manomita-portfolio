@@ -37,8 +37,6 @@ date_format = "January 2006"
  description = """
  **Projects:**
 
-- Programme management and delivery
-
 - Flood risk perception in urban centres in India
   - Study of three metro cities Planning and conduct of research
   - Desk based review, data analysis and report writing
@@ -71,7 +69,7 @@ date_format = "January 2006"
 
 - Representing organization in different forums and social platforms
 
-  **Achievements:**
+**Achievements:**
 
 - Leading the development of free online modules of disaster management study material with the aim of promoting disaster education
 
@@ -110,7 +108,7 @@ date_format = "January 2006"
 
 - Documentation and reporting
 
-  **Impact:** The project is currently [live](https://www.kflood.in/) and in its last phase. It was very well received.
+**Impact:** The project is currently [live](https://www.kflood.in/) and in its last phase. It was very well received.
 
   """
 
@@ -234,7 +232,7 @@ _Corpus Access Tools for Bangla Corpus_
 
 - Web development - Java J2EE project
 
-  **Impact:** Compilation of the project work published in Indian Journal of Applied Linguistics, vol. 42, no. 1 - 2, Jan - Dec 2016
+**Impact:** Compilation of the project work published in Indian Journal of Applied Linguistics, vol. 42, no. 1 - 2, Jan - Dec 2016
 
   """
 
