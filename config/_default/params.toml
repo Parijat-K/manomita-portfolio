@@ -86,7 +86,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "C/O - V.S. Banglekar, Room 04, Building B18, Sector 1", city = "Vashi, Navi Mumbai", region = "Maharashtra", postcode = "400703", country = "INDIA", country_code = "IN"}
+address = {street = "18/37 Daniell Street, Newtown", city = "Wellington", region = "Wellington", postcode = "6021", country = "New Zealand", country_code = "NZ"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
