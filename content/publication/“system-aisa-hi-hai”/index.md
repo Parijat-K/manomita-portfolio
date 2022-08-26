@@ -9,7 +9,7 @@ draft: false
 featured: false
 authors:
   - Das
-  - M.(2022)
+  - M.
 image:
   filename: featured
   focal_point: Smart
