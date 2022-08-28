@@ -12,12 +12,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Research Objectives
+**Research Objectives**
 
 1. To identify what communication approaches are being used 
 2. To identify what communication messages are being used 
 3. To explore how they influence community actions
 
-Methods
+**Status**
 
-Findings
+In progress
