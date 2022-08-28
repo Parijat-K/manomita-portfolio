@@ -22,11 +22,11 @@ bio = "Risk Communication | Community Resilience | Disaster Risk Reduction"
 email = "das.manomita@gmail.com"
 
 # List (academic) interests or hobbies
-# interests = [
-#  "Risk Communication",
-#  "Community Resilience",
-#  "Disaster Risk Reduction"
-#]
+interests = [
+  "Risk Communication",
+  "Community Resilience",
+  "Disaster Risk Reduction"
+]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
