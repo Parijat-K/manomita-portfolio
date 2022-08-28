@@ -16,17 +16,17 @@ role = "PhD Student in Emergency Management"
 organizations = [ { name = "Joint Centre for Disaster Research, Massey University", url = "https://www.massey.ac.nz/research/research-centres/joint-centre-for-disaster-research/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-# bio = "Disaster Studies Researcher."
+bio = "Risk Communication | Community Resilience | Disaster Risk Reduction"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "das.manomita@gmail.com"
 
 # List (academic) interests or hobbies
-interests = [
-  "Risk Communication",
-  "Community Resilience",
-  "Disaster Risk Reduction"
-]
+# interests = [
+#  "Risk Communication",
+#  "Community Resilience",
+#  "Disaster Risk Reduction"
+#]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
