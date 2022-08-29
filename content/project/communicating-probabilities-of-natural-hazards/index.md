@@ -1,7 +1,7 @@
 ---
 title: Communicating probabilities of natural hazards
 date: 2022-08-29T04:46:09.687Z
-subtitle: Guidelines
+subtitle: "  "
 summary: Through a review of existing literature, this project aims to identify
   the best practices for communicating probability of natural hazards
 draft: false
