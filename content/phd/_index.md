@@ -14,9 +14,9 @@ caption = ""
 +++
 <div style="position: relative; width: 50%;">
     <img style="float:left; margin-right: 20px;margin-top: 10px;margin-bottom: 10px;" src="20220821_160747.jpg">
-    <div style="position: absolute; left: 0px; width: 100%; top: 320px; background: black; padding-left: 5px; opacity: .55; ">
+    <!-- <div style="position: absolute; left: 0px; width: 100%; top: 320px; background: black; padding-left: 5px; opacity: .55; ">
         <span style="color: white; font-size: smaller;">Community Emergency Hub</span>
-    </div>
+    </div> -->
 </div>
 
 **Background**  
@@ -24,9 +24,9 @@ New Zealand is exposed to many natural hazards and have experienced devastating 
 
 <div style="position: relative; width: 50%;">
     <img style="float:left; margin-right: 20px;margin-top: 10px;margin-bottom: 10px;" src="20220821_172936.jpg">
-    <div style="position: absolute; left: 0px; width: 100%; top: 320px; background: black; padding-left: 5px; opacity: .55; ">
+    <!-- <div style="position: absolute; left: 0px; width: 100%; top: 320px; background: black; padding-left: 5px; opacity: .55; ">
         <span style="color: white; font-size: smaller;">Community members meeting in Mt. Cook</span>
-    </div>
+    </div> -->
 </div>
 
 **My research so far**  
